@@ -1,0 +1,13 @@
+  game
+impratant css
+line height is used to arranegd in cnter at cnter
+-->object fir is used to beautifull the image
+-->border raduis is used o mke the image in circl eform like 50%
+-->justify-content: center; it is used to move the content to center
+->opesit is used to blur the image whne we used the hover properties
+-->cursor we can also used 
+-->margine top is used to get some spce from top  adn we can use other prerty as well like butom waghira
+-->How to rmove whole bacgroudn color from texr
+-->we will use in this case dislya inline property
+-->
+
